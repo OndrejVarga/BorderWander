@@ -1,30 +1,38 @@
 
 # BorderWander - a gamified approach to walking 
 
-This conference winning application was created as a part of 2021 FLL competition. 
+This conference-winning application was created as a part of the 2021 FLL competition. 
 
 ![title](./images/title.png)
 
 ## About project
-The ambition of this project was to create an application that not only help to creates the habit of regular walking but also transforms it into an engaging experience. Users stake their claim on real-world territory through their daily walks. The territories are captured by creating a convex shapes by walking. They are rewarded by points as well as the part of map that belongs to them. However, users can conquer each other's territories by walking over them. Our solution leverages the inherent human drive for competition and rivalry, turning it into a powerful motivator for regular app engagement. 
+The ambition of this project was to create an application that not only helps to create the habit of regular walking but also transforms it into an engaging experience. Users get to claim real-world territory with each daily walk, forming unique shapes as they go. These territories earn them points and a piece of the map to call their own. Yet, there's also a friendly competition element – users can challenge each other by walking over their territories. Our solution leverages the inherent human drive for competition and rivalry, turning it into a powerful motivator for regular app engagement. 
 
-BorderWander doesn't stop at gamification; it offers users a wealth of insightful statistics, including captured territory, distance traveled, points earned, calories burned, and leaderboard rankings. Additionally, users can personalize their experience with buyable colors and character personalization.
-![another](./images/Another.png)
-
+BorderWander doesn't stop at gamification; it offers users statistics including captured territory, distance travelled, points earned, calories burned, and leaderboard rankings. In addition, users can personalize their experience with buyable colours and character personalization.
 
 ## Demo
-![video](./images/BW_video_%201_2.gif)
+
+<p align="center">
+  <img src="./images/BW_video_%201_2.gif" width=30%>
+</p>
 
 
 ## Authors
-
 The project was a result of a team effort. Our team contained several testers, one UI designer and two programmers.
+
+## Achievements
+- 2021: 3. Place, Junior Internet conferrence (https://www.juniorinternet.sk/cms/vysledky-sutaze-junior-internet-amavet-2021/)
+- 2021: Award of the Dean of the Faculty of Natural Sciences UPJŠ Košice
+
+<p align="center">
+  <img src="./images/Another.png" width=50%>
+</p>
 
 ## Features
 
 - Light/dark mode map
 - Dynamic map using Mapbox API
-- Various custamization options
+- Various customization options
 - Firebase integration for authentification and data storage
 - Leaderboards
 
@@ -32,8 +40,9 @@ The project was a result of a team effort. Our team contained several testers, o
 
 > (BorderWander is no longer in development)
 
-BorderWander was fully built using Flutter and Dart. 
-Cloud services such as authentification, and users data storage are provided by Firebase. The holy grail of applicatin is the real-time map of all territories. To achieve this, we utilitize Mapbox API.
-## Run Locally
+* BorderWander was fully built using Flutter and Dart. 
+* Integration with Firebase for authentification, and user data storage  
+* The real-time map of all territories is achieved using Mapbox API.
 
-Althought the application is no longer in developmen, working version is accessible at: https://borderwander.github.io/
+## Run Locally
+Although the application is no longer developing, the working version is accessible: https://borderwander.github.io/.
