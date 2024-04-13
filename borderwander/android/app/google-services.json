@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "276408908368",
+    "project_id": "borderwander-a610c",
+    "storage_bucket": "borderwander-a610c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:276408908368:android:22fbb80bd69909644eaf55",
+        "android_client_info": {
+          "package_name": "com.game.borderwander"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "276408908368-uhno9n2on46j04ipv235m8j1osj3fdlr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATeszxRiDLHnkDCgO76wIz9k4JFtthZlA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "276408908368-uhno9n2on46j04ipv235m8j1osj3fdlr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
