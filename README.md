@@ -22,7 +22,7 @@ The project was a result of a team effort. Our team contained several testers, o
 
 ## Achievements
 - 2021: 3. Place, Junior Internet conferrence (https://www.juniorinternet.sk/cms/vysledky-sutaze-junior-internet-amavet-2021/)
-- 2021: Award of the Dean of the Faculty of Natural Sciences UPJŠ Košice
+- 2021: Dean's Award - Faculty of Natural Sciences UPJŠ Košice
 
 <p align="center">
   <img src="./images/Another.png" width=50%>
